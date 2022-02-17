@@ -1,0 +1,23 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "blog api with auth tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xrls9/blog-api.git"
+  },
+  "keywords": [
+    "jwt",
+    "api"
+  ],
+  "author": "xrls9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xrls9/blog-api/issues"
+  },
+  "homepage": "https://github.com/Xrls9/blog-api#readme"
+}
